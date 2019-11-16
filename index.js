@@ -9,6 +9,6 @@ let random = Math.floor(Math.random() * 10) + 1;
 
 // generates a remainder equal to 4
 
-let mod = 4;
+const mod = 16 % 6;
 
 let max = Math.max(20);
